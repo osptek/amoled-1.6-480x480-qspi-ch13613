@@ -29,7 +29,7 @@ This repository holds materials for the **1.6″ 480×480 AMOLED (QSPI · CH1361
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `1.6-amoled-480x480-qspi-ch13613`
+Repo id: `amoled-1.6-480x480-qspi-ch13613`
 
 ---
 

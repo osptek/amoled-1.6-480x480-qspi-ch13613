@@ -31,7 +31,7 @@
 
 OSPTEK **1.6″ 480×480 AMOLED** is a **QSPI** color display module driven by **CH13613**, with touch controller **CHSC6417**. The square resolution suits round wearables and compact HMI.
 
-Spec ID (repository name): `1.6-amoled-480x480-qspi-ch13613`
+Spec ID (repository name): `amoled-1.6-480x480-qspi-ch13613`
 
 Current module version: **AM160Q480480LK**. Electrical and mechanical details follow [`docs/AM_160_Q480480_LK_cb40223812.pdf`](./docs/AM_160_Q480480_LK_cb40223812.pdf).
 
@@ -60,7 +60,7 @@ Current module version: **AM160Q480480LK**. Electrical and mechanical details fo
 ## Repository layout
 
 ```text
-1.6-amoled-480x480-qspi-ch13613/                                # repo root (nav: ../../README_EN.md)
+amoled-1.6-480x480-qspi-ch13613/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM160Q480480LK/                                # full materials for this part number
         ├── README.md
